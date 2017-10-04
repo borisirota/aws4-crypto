@@ -1,0 +1,20 @@
+{
+  "name": "aws4-crypto",
+  "version": "1.0.0",
+  "description": "crypto drop in replacement for aws4 module based on sjcl",
+  "main": "index.js",
+  "author": "Boris Sirota <borisirota@gmail.com> (https://github.com/borisirota)",
+  "license": "MIT",
+  "keywords": [
+    "amazon",
+    "aws",
+    "aws4",
+    "signature",
+    "v4",
+    "version4"
+  ],
+  "homepage": "https://github.com/borisirota/aws4-crypto",
+  "dependencies": {
+    "sjcl-aws": "^1.0.8"
+  }
+}

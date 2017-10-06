@@ -9,6 +9,10 @@ the goal is to reduce the bundle size of [aws4](https://github.com/mhart/aws4) p
 npm install aws4-crypto --save
 ```
 
+# binary
+
+when passing binary body, make sure its of type [Int8Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array)
+
 # webpack usage
 
 ```js
